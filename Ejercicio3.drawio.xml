@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T11:11:12.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5gPkFMIm4TFRb0UUyzv0" version="20.1.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-20T11:20:33.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="E57R5R8c7gamixr4T9J-" version="20.1.1" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
     <mxGraphModel dx="2062" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_dGLsS_cSS_cFfq-PhfB-7" value="Población" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_dGLsS_cSS_cFfq-PhfB-5" vertex="1">
+        <mxCell id="_dGLsS_cSS_cFfq-PhfB-7" value="Superficie" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_dGLsS_cSS_cFfq-PhfB-5" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -190,7 +190,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_dGLsS_cSS_cFfq-PhfB-10" value="Superficie" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_dGLsS_cSS_cFfq-PhfB-8" vertex="1">
+        <mxCell id="_dGLsS_cSS_cFfq-PhfB-10" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_dGLsS_cSS_cFfq-PhfB-8" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -203,7 +203,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_dGLsS_cSS_cFfq-PhfB-13" value="Nombre" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_dGLsS_cSS_cFfq-PhfB-11" vertex="1">
+        <mxCell id="_dGLsS_cSS_cFfq-PhfB-13" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="_dGLsS_cSS_cFfq-PhfB-11" vertex="1">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -400,7 +400,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WTvVPcYw_n6kecxO--FG-7" value="Nombre" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="WTvVPcYw_n6kecxO--FG-5">
+        <mxCell id="WTvVPcYw_n6kecxO--FG-7" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;fontSize=12;" vertex="1" parent="WTvVPcYw_n6kecxO--FG-5">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
