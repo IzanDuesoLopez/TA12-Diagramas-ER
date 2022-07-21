@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T16:40:51.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Nl12iB5yTDLLgoe4OJ_C" version="20.1.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-21T16:47:05.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QWvN3QkPj7ewiqS0y6by" version="20.1.4" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -792,7 +792,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hsv2rxk5u0-ITkyswzxj-70" value="Nóminas" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="-620" y="120" width="180" height="150" as="geometry" />
+          <mxGeometry x="-660" y="120" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="Hsv2rxk5u0-ITkyswzxj-71" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Hsv2rxk5u0-ITkyswzxj-70">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -889,7 +889,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Hsv2rxk5u0-ITkyswzxj-96" value="RECIBE" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="-430" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Hsv2rxk5u0-ITkyswzxj-97" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Hsv2rxk5u0-ITkyswzxj-74" target="Hsv2rxk5u0-ITkyswzxj-96">
           <mxGeometry relative="1" as="geometry">
