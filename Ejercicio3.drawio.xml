@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T08:05:29.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Ea5bm7ASWbEWfzPFowG9" version="20.1.4" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-25T08:06:34.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OmGl-rrm26m9pIasjftP" version="20.2.0" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLLI_8DJ0ybZeSvxuhMo" name="Geografía">
-    <mxGraphModel dx="1369" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1667,7 +1667,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F3SMfaAydTVo9s9pk7td" name="Fútbol">
-    <mxGraphModel dx="2196" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3201" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2223,7 +2223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-ExPbvRMQCCUB3wy2FPw" name="Accidentes Geográficos">
-    <mxGraphModel dx="1952" dy="952" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2289,7 +2289,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p6o9huqfm-ufpepOTDKY" name="Horario escolar">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1955" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3079,7 +3079,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Horario escolar complicado" id="lIEBHFGEP8HsaiaEGLGu">
-    <mxGraphModel dx="1902" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="LwXHD7Su0W-XDFrRz6PG-0" />
         <mxCell id="LwXHD7Su0W-XDFrRz6PG-1" parent="LwXHD7Su0W-XDFrRz6PG-0" />
