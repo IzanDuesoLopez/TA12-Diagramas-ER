@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T13:17:51.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="A1ND71PuRpcbeY6l47JN" version="20.2.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-26T13:18:02.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_rDWvRbDMGvJg4VAUI4C" version="20.2.0" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
     <mxGraphModel dx="3201" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2308,6 +2308,9 @@
             <mxPoint x="660" y="400" as="sourcePoint" />
             <mxPoint x="700" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ARzLQEjQY0Rwdp8MWKYy-1" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
