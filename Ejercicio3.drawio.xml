@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T20:51:48.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UoIYUTgvSOnlgKBRbQ6v" version="20.2.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-26T20:53:13.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rW2cGBK--4DWLwRv7S3Q" version="20.2.1" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
     <mxGraphModel dx="2889" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4723,7 +4723,7 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="S4qeoerQavEYXITK3T_y-56" value="HAY" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="S4qeoerQavEYXITK3T_y-56" value="Se piden" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="160" y="345" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="S4qeoerQavEYXITK3T_y-57" value="cantidad" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
