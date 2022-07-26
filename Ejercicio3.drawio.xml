@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T13:18:29.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="n9JFFmg2bChhq2xoti-w" version="20.2.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-26T13:44:59.525Z" agent="5.0 (Windows)" etag="MGVW3aZP8aX42G8VYGY6" version="20.2.0" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
-    <mxGraphModel dx="3201" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -376,7 +376,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SLLI_8DJ0ybZeSvxuhMo" name="Geografía">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -649,8 +649,8 @@
         <mxCell id="Hhwp1ZmFa2O_m0QFFQsy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Hhwp1ZmFa2O_m0QFFQsy-8" target="Hhwp1ZmFa2O_m0QFFQsy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="B91NmeJ4F9xIp1ZJL0Zz-1" value="&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;Comunidad(&lt;u&gt;&lt;b&gt;Nombre(VARCHAR)&lt;/b&gt;&lt;/u&gt;, Poblacion(VARCHAR), Superficie(FLOAT),&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;Provincia(&lt;u&gt;&lt;b&gt;IDCodigoPostal(INT)&lt;/b&gt;&lt;/u&gt;, Superficie(FLOAT)),&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;Localidad(&lt;u&gt;&lt;b&gt;IDLocalidad(INT)&lt;/b&gt;&lt;/u&gt;, Poblacion(VARCHAR), Nombre(VARCHAR))&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="970" width="1010" height="100" as="geometry" />
+        <mxCell id="B91NmeJ4F9xIp1ZJL0Zz-1" value="&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;Comunidad(&lt;u&gt;&lt;b&gt;Nombre(VARCHAR)&lt;/b&gt;&lt;/u&gt;, Poblacion(VARCHAR), Superficie(FLOAT))&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;Provincia(&lt;u&gt;&lt;b&gt;IDCodigoPostal(INT)&lt;/b&gt;&lt;/u&gt;, Superficie(FLOAT), &lt;b&gt;NombreComunidad(VARCHAR)&lt;/b&gt;) &lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;Localidad(&lt;u&gt;&lt;b&gt;IDLocalidad(INT)&lt;/b&gt;&lt;/u&gt;, Poblacion(VARCHAR), Nombre(VARCHAR)), &lt;b&gt;EsCapitalProvincia(INT)&lt;/b&gt;, &lt;b&gt;EsCapitalComunidad(VARCHAR)&lt;/b&gt;)&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span id=&quot;docs-internal-guid-445a661a-7fff-fed5-8930-d290d275c7a6&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; font-family: Arial; vertical-align: baseline;&quot;&gt;&lt;span style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; background-color: transparent; vertical-align: baseline;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="970" width="1120" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -903,7 +903,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="iZmIO0FR37T9YXkADr7y" name="Almacén v1">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1145,7 +1145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8PdRJzscU-I9AN2Gr_Dy" name="Biblioteca v2">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1211,7 +1211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3u1d2rtgDG8T8bqz_a46" name="Organigrama">
-    <mxGraphModel dx="2489" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1610,7 +1610,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LSWCG1FH6-8G_J7MB-mW" name="Vuelos">
-    <mxGraphModel dx="2489" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2097,7 +2097,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6uOZH26AmMgvjMHAX2UG" name="Recetas de cocina">
-    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2328,7 +2328,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F3SMfaAydTVo9s9pk7td" name="Fútbol">
-    <mxGraphModel dx="2489" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2884,7 +2884,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-ExPbvRMQCCUB3wy2FPw" name="Accidentes Geográficos">
-    <mxGraphModel dx="2782" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3245,7 +3245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z6GYmw2gpKBraVM4_xP5" name="Empresa de Software">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3524,7 +3524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NvrDyYolVFlV2GBfH2Po" name="Empresa de comida">
-    <mxGraphModel dx="2489" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2196" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4037,7 +4037,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="VSzPGwTNx1-CEOimmyUZ" name="Red Social">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4048,7 +4048,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tw1D-qsQtL2sCUHkSGve" name="Menú diario">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1369" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
