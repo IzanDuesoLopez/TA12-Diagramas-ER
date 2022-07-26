@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T13:16:24.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SVsk_W6DXVakAHJBuBNK" version="20.2.0" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-26T13:17:51.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="A1ND71PuRpcbeY6l47JN" version="20.2.0" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
     <mxGraphModel dx="3201" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2094,7 +2094,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6uOZH26AmMgvjMHAX2UG" name="Recetas de cocina">
-    <mxGraphModel dx="1662" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2279,11 +2279,11 @@
             <mxRectangle width="170" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ag6GL3DqsEfrecg5bnb7-3" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="80" y="350" width="120" height="100" as="geometry" />
+        <mxCell id="Ag6GL3DqsEfrecg5bnb7-3" value="USAR" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="75" y="350" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="Ag6GL3DqsEfrecg5bnb7-4" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="590" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="Ag6GL3DqsEfrecg5bnb7-4" value="SE COCINA" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=22;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="575" y="380" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ag6GL3DqsEfrecg5bnb7-5" value="" style="endArrow=none;html=1;rounded=0;fontSize=22;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="Ag6GL3DqsEfrecg5bnb7-3" target="L2jNAGQgl7_Qr8Kn9NfB-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
