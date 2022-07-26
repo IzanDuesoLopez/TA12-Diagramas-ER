@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T20:49:30.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1CYUE5tc0d4dCW6I-gUX" version="20.2.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-26T20:50:01.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pMVeNbTQyYRR3Vnp8oNd" version="20.2.1" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
     <mxGraphModel dx="2889" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4524,7 +4524,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2TmWJI9aqcAd3GgkPWEq-1" value="Menú diario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
-          <mxGeometry width="160" height="80" as="geometry" />
+          <mxGeometry x="140" y="30" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hhbmuqRLvg0CjygQ0JGg-1" value="Platos" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="310" width="180" height="130" as="geometry" />
