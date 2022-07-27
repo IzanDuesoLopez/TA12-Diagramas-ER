@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T13:34:16.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="honNflHhLG-GTTG6P0X8" version="20.2.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-27T13:39:09.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SbyUWuirWYMKdwovwbUf" version="20.2.1" type="github" pages="15">
   <diagram id="SLLI_8DJ0ybZeSvxuhMo" name="Geografía">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6281,7 +6281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nybTZHYLtLVDzz-VyMl9" name="Inmuebles">
-    <mxGraphModel dx="1583" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1445" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
