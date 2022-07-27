@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T11:07:37.268Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wZypTzikKeuqFZq9snMw" version="20.2.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-27T11:11:29.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QKasinBL0cSBtz9Q3c2z" version="20.2.1" type="github" pages="15">
   <diagram id="SLLI_8DJ0ybZeSvxuhMo" name="Geografía">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6427,7 +6427,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wcCT2QDYutI1ItcxayFU-1" value="Pueden ser" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wcCT2QDYutI1ItcxayFU-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="wcCT2QDYutI1ItcxayFU-1" target="SrX37eS9Zhf__LQFZTwc-39">
           <mxGeometry relative="1" as="geometry">
@@ -6438,7 +6438,7 @@
         <mxCell id="wcCT2QDYutI1ItcxayFU-3" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SrX37eS9Zhf__LQFZTwc-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="310" as="sourcePoint" />
-            <mxPoint x="350" y="310" as="targetPoint" />
+            <mxPoint x="310" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wcCT2QDYutI1ItcxayFU-8" value="PISOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
