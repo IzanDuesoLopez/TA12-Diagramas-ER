@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T13:48:29.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sKbwsK79ZZo7OV_4LEdt" version="20.2.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-27T13:48:42.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="j0VyqyoPnBxOLxt9xQ4Q" version="20.2.1" type="github" pages="15">
   <diagram id="SLLI_8DJ0ybZeSvxuhMo" name="Geografía">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6801,7 +6801,7 @@
           <mxGeometry x="460" y="-90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhFpHDxC5HDYoGMW78W2-28" value="1,N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="335" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fhFpHDxC5HDYoGMW78W2-29" value="1,1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="157.5" width="60" height="30" as="geometry" />
