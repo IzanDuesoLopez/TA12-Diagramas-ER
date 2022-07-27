@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T12:10:17.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="m2H1oRnYu1sdMkonvluQ" version="20.2.1" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-07-27T12:11:24.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MtRWfoDEV6UchAWAOSN9" version="20.2.1" type="github" pages="15">
   <diagram id="SLLI_8DJ0ybZeSvxuhMo" name="Geografía">
     <mxGraphModel dx="1662" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6289,7 +6289,7 @@
           <mxGeometry y="-230" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SrX37eS9Zhf__LQFZTwc-14" value="TRABAJADORES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="50" width="180" height="120" as="geometry" />
+          <mxGeometry x="40" y="50" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SrX37eS9Zhf__LQFZTwc-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="SrX37eS9Zhf__LQFZTwc-14">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -6746,7 +6746,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ln8_zo_cUhjmsWEAIQPt-88" value="CLIENTES" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="225" width="180" height="125" as="geometry" />
+          <mxGeometry x="40" y="282.5" width="180" height="125" as="geometry" />
         </mxCell>
         <mxCell id="ln8_zo_cUhjmsWEAIQPt-89" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="ln8_zo_cUhjmsWEAIQPt-88">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -6770,7 +6770,7 @@
             <mxPoint x="225" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ln8_zo_cUhjmsWEAIQPt-106" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ln8_zo_cUhjmsWEAIQPt-101" target="ln8_zo_cUhjmsWEAIQPt-89">
+        <mxCell id="ln8_zo_cUhjmsWEAIQPt-106" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ln8_zo_cUhjmsWEAIQPt-101" target="ln8_zo_cUhjmsWEAIQPt-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="190" as="sourcePoint" />
             <mxPoint x="220" y="330" as="targetPoint" />
