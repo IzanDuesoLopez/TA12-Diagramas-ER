@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T08:37:29.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kyprncuPy4_0nM1jz1Ue" version="20.2.1" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-07-27T08:38:50.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="6ZlG84HdMofSicKMBOpb" version="20.2.1" type="github" pages="18">
   <diagram id="Qn5PIws2Hva2StfZu64c" name="Academia de clases">
     <mxGraphModel dx="2889" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5596,7 +5596,7 @@
             <mxPoint x="230" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zJ4uCn04x5K8FQiZyqcr-105" value="N:N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zJ4uCn04x5K8FQiZyqcr-105" value="N:M" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-533" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
